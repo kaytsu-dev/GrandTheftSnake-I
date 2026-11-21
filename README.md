@@ -4,7 +4,7 @@ An original Python action game inspired by the top-down open-world games of the 
 
 ## Play
 
-On this Mac, open **Grand Theft Snake.app** from the Applications folder. If Pygame CE is missing, the launcher offers to install it. The game requires Python 3.10 or later and Pygame CE.
+On a Mac, open **Grand Theft Snake.app** from the Applications folder. If Pygame CE is missing, the launcher offers to install it. The game requires Python 3.10 or later and Pygame CE.
 
 ## Controls
 
